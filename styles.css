@@ -1,1 +1,26 @@
-/*  your css code here. If applicable */
+body {
+  background-color: gray;
+  margin: 0;
+}
+.testimony-container {
+  padding: 40px;
+  background-color: skyblue;
+}
+.testimony {
+  background-color: black;
+  padding: 20px;
+  border: 1px solid white;
+  margin-bottom: 20px;
+  border-radius: 6px;
+}
+.text {
+  font-size: 16px;
+  color: whitesmoke;
+  margin-bottom: 10px;
+}
+.author {
+  text-align: right;
+  font-style: italic;
+  color: gray;
+}
+
